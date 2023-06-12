@@ -1,4 +1,6 @@
 # litrastreamdeck
+Windows Only
+
 Control you Litra from your stream deck
 
 Download all file to the same folder 
@@ -12,7 +14,7 @@ there are 14 options
 
 Light10P - 100P will change to brightness
 
-Coldest is make cool settings
+Coldest is max cool settings
 
 Warmest Is max Warm settings. 
 
