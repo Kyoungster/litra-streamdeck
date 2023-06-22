@@ -9,6 +9,7 @@ Add hidapitester.exe to your system path
 V2
 
 Compact to 6 options
+
 Light on
 Light off
 Brighter
