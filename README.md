@@ -1,6 +1,8 @@
 # litrastreamdeck
 Windows Only
 
+Chose either V1 or V2
+
 Control you Litra from your stream deck
 
 Download all file to the same folder 
