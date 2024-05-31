@@ -5,7 +5,9 @@ Control you Litra from your stream deck
 
 Download all file to the same folder 
 Add hidapitester.exe to your system path 
+
 Guide with photos (https://medium.com/@kevinmarkvi/how-to-add-executables-to-your-path-in-windows-5ffa4ce61a53)
+
 Step 1: Locate the Executable
 Ensure you know the exact directory where hidapitester.exe is located. For example, let's assume it's located in C:\Tools\hidapitester.
 
